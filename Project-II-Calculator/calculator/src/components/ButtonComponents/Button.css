@@ -1,0 +1,12 @@
+button:focus {outline:0;}
+
+.large {
+  width: 75%;
+  height:100%;
+  border: 1px solid grey;
+  margin:0;
+  font-size: 2em;
+  font-weight: 500;
+  color: #222222;
+  background: #ffffff;
+}
